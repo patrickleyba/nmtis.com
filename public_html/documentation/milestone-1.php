@@ -15,7 +15,8 @@
 		<h5>Audience:</h5><p>The NM Technology website is geared toward providing local small businesses and
 		commercial enterprises.</p>
 
-		<h5>Goal:</h5><ul>
+		<h5>Goal:</h5>
+		<ul>
 			<li>To attract more clients in a professional manner.</li>
 			<li>Have a professional appearance and existence on the internet.</li>
 			<li>Expand my business to have a team of developers.</li>
@@ -46,7 +47,7 @@
 			<li>Eliminate errors that would occur with the paper method.</li>
 		</ul>
 
-		<h5>User Story:</h5><p></p>
+		<h5>User Story:</h5><p>Deidra</p>
 		</div>
 </body>
 
