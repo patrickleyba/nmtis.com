@@ -8,18 +8,18 @@
 <body>
 	<div class="center">
 		<h1>nmtis.com</h1>
-		<h5>Purpose:</h5> <p>This project will be a business website for NM Technology in order to attract
+		<h5>Purpose:</h5> <p>This project will be a business website for my business NM Technology in order to attract
 			new customers that need professional Web Application Development, Company Websites, Business Management
-			Work Flow, solutions via a modern technology base to in.</p>
+			Work Flow applications and IT installation solutions via a modern technology base.</p>
 
 		<h5>Audience:</h5><p>The NM Technology website is geared toward providing local small businesses and
-		commercial enterprises.</p>
+		commercial enterprises here in the State Of New Mexico.</p>
 
 		<h5>Goal:</h5>
 		<ul>
 			<li>To attract more clients in a professional manner.</li>
-			<li>Have a professional appearance and existence on the internet.</li>
-			<li>Expand my business to have a team of developers.</li>
+			<li>Have a professional appearance and existence for NMTIS on the internet.</li>
+			<li>Expand my business to hire a team of developers.</li>
 		</ul>
 
 	<div class="center"><h2>Persona</h2>
@@ -47,7 +47,7 @@
 			<li>Eliminate errors that would occur with the paper method.</li>
 		</ul>
 
-		<h5>User Story:</h5><p>Deidra</p>
+		<h5>User Story:</h5><p>Jennifer has been using a paper based system to process pet orders from clinics. This method </p>
 		</div>
 </body>
 

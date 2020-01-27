@@ -2,7 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/build-phar.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey.asc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/other/build_phar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/psalm-autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/psalm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/BinaryUtils.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Builder/UuidBuilderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/CodecInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/StringCodec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Number/BigNumberConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Number/DegradedNumberConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/NumberConverterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Time/DegradedTimeConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Time/PhpTimeConverter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/TimeConverterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/DegradedUuid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Exception/UnsatisfiedDependencyException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/FeatureSet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/CombGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/MtRandGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/OpenSslGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomGeneratorFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomGeneratorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/SodiumRandomGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/TimeGeneratorFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/TimeGeneratorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/FallbackNodeProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/RandomNodeProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/NodeProviderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/TimeProviderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Uuid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/UuidFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/UuidFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/UuidInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/Ctype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nmtis.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nmtis.com.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/documentation/milestone-1.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/documentation/milestone-1.php" afterDir="false" />
     </list>
@@ -11,7 +88,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -19,14 +97,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1WldmyUV5hlW1iXerelMUjSf74G" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/bootcamp/git" />
@@ -60,7 +149,8 @@
       <workItem from="1579728279564" duration="4669000" />
       <workItem from="1579733806832" duration="1022000" />
       <workItem from="1579794458819" duration="81000" />
-      <workItem from="1579809982685" duration="322000" />
+      <workItem from="1579809982685" duration="1712000" />
+      <workItem from="1580156970148" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -76,28 +166,36 @@
       <option name="project" value="LOCAL" />
       <updated>1579794472890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
+      <created>1579810887668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579810887668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory." />
     <option name="LAST_COMMIT_MESSAGE" value="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="43" key="CommitChangelistDialog2" timestamp="1579810834398">
+    <state x="0" y="43" key="CommitChangelistDialog2" timestamp="1579810887522">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state x="0" y="43" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1579810834398" />
+    <state x="0" y="43" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1579810887522" />
     <state x="221" y="79" key="SettingsEditor" timestamp="1579733983248">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="221" y="79" key="SettingsEditor/0.23.1440.835@0.23.1440.835" timestamp="1579733983248" />
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1579794475631">
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1579810889196">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1579794475631" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1579810889196" />
   </component>
 </project>
