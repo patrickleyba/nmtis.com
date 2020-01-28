@@ -6,8 +6,9 @@
 </head>
 
 <body>
+
 	<div class="center">
-		<h1>nmtis.com</h1>
+		<h1>Website for NM Technology at nmtis.com</h1>
 		<h5>Purpose:</h5> <p>This project will be a business website for my business NM Technology in order to attract
 			new customers that need professional Web Application Development, Company Websites, Business Management
 			Work Flow applications and IT installation solutions via a modern technology base.</p>
@@ -22,33 +23,38 @@
 			<li>Expand my business to hire a team of developers.</li>
 		</ul>
 
-	<div class="center"><h2>Persona</h2>
+		<h2>Persona</h2>
 
 		<h5>Name:</h5><p>Jennifer Jones</p>
 
-		<h5>Business Name:</h5><p>Albuquerque Pet Memorial Service (APMS)</p>
+		<h5>Business Name:</h5><p>Companion Cloud</p>
 
-		<h5>Business Type:</h5><p>Albuquerque Pet Memorial Service</p>
+		<h5>Business Type:</h5><p>Companion Cloud provides pet cremation services for pet owners with deceased companions.
+			They provide Urn products and other commemorative products to help with the loss of a pet that is equal to a
+			family member.</p>
 
-		<h5>Profession:</h5><p>APMS provides pet cremation services for pet owners with deceased companions. They provide
-			Urn products and other commemorative products to help with the loss of a pet that is equal to a family member.</p>
+		<h5>Profession:</h5><p>Jennifer is the owner of Companion Cloud.</p>
 
-		<h5>Technology:</h5><p>APMS employees currently uses paper forms to process companions and this gets messy, presents errors in orders
-			and gets staff unorganized if not maintain properly.</p>
+		<h5>Technology:</h5><p>Jennifer uses a desktop computer during the day and an Apple laptop at night when she is at
+			home browsing the internet. She also has an iPhone that she uses for phone and email communication.</p>
 
-		<h5>Fustrations and Needs:</h5><p>APMS is fustrated with the paper based method for processing companion cremation
-			orders from pet owners. APMS needs a digital solution in order to make their work flow more efficient, accurate
-			and faster turn-over rate for clients and veterinary clinics.</p>
+		<h5>Frustration's and Needs:</h5><p>Jennifer is near-sighted so she will benefit from a larger font format so she
+			can read through my website with no issue. Jennifer doesn't like when she can't call and speak with a real
+			person to find out information before she starts communicating through emails so she needs a direct contact
+			number to the vendor on their website.</p>
 
 		<h5>Goals:</h5><ul>
-			<li>Provide a more consistent service timeline for vet clinics and pet owners.</li>
-			<li>Utilize a digital platform in order to process work efficiently.</li>
-			<li>Increase revenue.</li>
-			<li>Eliminate errors that would occur with the paper method.</li>
+			<li>Jennifer needs to be able to find vendors using the internet that can help her power her business.</li>
+			<li>Jennifer would like to use my website to gain a way to contact me from using my website's contact form.</li>
+			<li>Jennifer is trying to find the best affordable price so she needs a way to compare affordability. </li>
 		</ul>
 
-		<h5>User Story:</h5><p>Jennifer has been using a paper based system to process pet orders from clinics. This method </p>
+		<h5>User Story:</h5><p>As a user of a vendors website I need to be able to browse through their site and see their
+			accomplishments and business model to be able to determine a good fit. I also need to be able to contact them
+			directly in order to ask them questions about my needs to see if their services are a good match for what I
+			need.</p>
 		</div>
+
 </body>
 
 </html>
