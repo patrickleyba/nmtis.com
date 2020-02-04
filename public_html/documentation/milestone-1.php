@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<link href="style/style.css"/>
 	<title>My PWP nmtis.com</title>
 </head>
 
@@ -46,7 +47,7 @@
 		<h5>Goals:</h5><ul>
 			<li>Jennifer needs to be able to find vendors using the internet that can help her power her business.</li>
 			<li>Jennifer would like to use my website to gain a way to contact me from using my website's contact form.</li>
-			<li>Jennifer is trying to find the best affordable price so she needs a way to compare affordability. </li>
+			<li>Jennifer is trying to find the best affordable price so she needs a way to compare affordability.</li>
 		</ul>
 
 		<h5>User Story:</h5><p>As a user of a vendors website I need to be able to browse through their site and see their
