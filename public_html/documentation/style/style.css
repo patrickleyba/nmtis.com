@@ -1,3 +1,7 @@
+head {
+	font-family: 'Ubuntu', sans-serif;
+}
+
 section {
 	text-align: center;
 }
@@ -5,7 +9,6 @@ section {
 body .center {
 	text-align: left;
 	font-family: 'Ubuntu', sans-serif;
-
 }
 
 h5 {
@@ -21,4 +24,8 @@ section > div {
 section > div > img {
 	padding: 10px;
 	margin: 10px;
+}
+
+.center {
+	font-family: 'Ubuntu', sans-serif;
 }

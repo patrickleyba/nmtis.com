@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<link href="style/style.css"/>
+	<style>@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');</style>
+	<link href="style/style.css" rel="stylesheet"/>
 	<title>My PWP nmtis.com</title>
 </head>
 
@@ -57,5 +58,7 @@
 		</div>
 
 </body>
-
+<footer>
+	<a href="milestone-1.php">Milestone-1</a>||
+	<a href="milestone-2.php">Milestone-2</a></footer>
 </html>

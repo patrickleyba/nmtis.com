@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8"/>
 	<link href="style/style.css" rel="stylesheet"/>
-	<style>
-		@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
-	</style>
+	<style>@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');</style>
+	<a href="milestone-1.php">Milestone-1</a>||
+	<a href="milestone-2.php">Milestone-2</a>
 	<title>My PWP nmtis.com</title>
 </head>
 <body>
@@ -45,7 +45,9 @@
 			<img src="web-wireframe-concept.jpg" width="600" height="600" alt="Image shows wire-frame web concept"/>
 		</div>
 </section>
-
+<footer>
+	<a href="milestone-1.php">Milestone-1</a>||
+	<a href="milestone-2.php">Milestone-2</a></footer>
 </body>
 
 </html>
