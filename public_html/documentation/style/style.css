@@ -1,9 +1,24 @@
 section {
+	text-align: center;
+}
+
+body .center {
+	text-align: left;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+h5 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+section > div {
 	display: flex;
-	justify-content: flex-start;
+	justify-items: flex-start;
+	align-content: space-around;
 }
 
-body > .center {
-	align-content: center;
+section > div > img {
+	padding: 10px;
+	margin: 10px;
 }
-
