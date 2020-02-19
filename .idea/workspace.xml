@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +111,9 @@
       <workItem from="1582041704151" duration="230000" />
       <workItem from="1582041944080" duration="1346000" />
       <workItem from="1582079818023" duration="8596000" />
-      <workItem from="1582093216170" duration="1233000" />
+      <workItem from="1582093216170" duration="1750000" />
+      <workItem from="1582118476544" duration="1316000" />
+      <workItem from="1582129775049" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -177,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582090832872</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;">
+      <created>1582094634769</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582094634769</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,13 +212,15 @@
     <MESSAGE value="Checkpoint 2 looking for approval for milestone2." />
     <MESSAGE value="Checkpoint 2 looking for approval for milestone2. //Added links to other pages in the footer and header for a fluid navigation." />
     <MESSAGE value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;Added form and created layout for PWP using Bootstrap&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;Added form and created layout for PWP using Bootstrap&quot;" />
+    <MESSAGE value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint 2 &quot;updated layout&quot;" />
+    <MESSAGE value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1582090832651">
+    <state x="0" y="23" width="874" height="826" key="CommitChangelistDialog2" timestamp="1582094634638">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1582090832651" />
+    <state x="0" y="23" width="874" height="826" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1582094634638" />
     <state x="0" y="43" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1580946206127" />
     <state x="221" y="79" key="SettingsEditor" timestamp="1579733983248">
       <screen x="0" y="23" width="1440" height="835" />
