@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,7 @@
       <workItem from="1582079818023" duration="8596000" />
       <workItem from="1582093216170" duration="1750000" />
       <workItem from="1582118476544" duration="1316000" />
-      <workItem from="1582129775049" duration="641000" />
+      <workItem from="1582129775049" duration="1023000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
