@@ -46,7 +46,7 @@
 		</div>
 </section>
 <footer>
-	<a href="milestone-1.php">Milestone-1</a>||
+	<a href="milestone-1.php">Milestone-1</a>
 	<a href="milestone-2.php">Milestone-2</a></footer>
 </body>
 
