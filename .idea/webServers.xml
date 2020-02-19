@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="83423439-c452-4336-b730-96027b2eae0b" name="pwp-nmtis-website" url="https://bootcamp-coders.cnm.edu/~pleyba4/pwp-nmtis-website/">
+      <webServer id="02e2a051-6c32-4148-98d6-5552c9f4af69" name="nmtis.com" url="http://bootcamp-coders.cnm.edu/~pleyba4/pwp-nmtis-website">
         <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/pleyba4/public_html/pwp-nmtis-website" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />

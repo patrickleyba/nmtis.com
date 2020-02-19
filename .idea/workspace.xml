@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/form-validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nmtis.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nmtis.com.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +55,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
@@ -112,7 +122,10 @@
       <workItem from="1582079818023" duration="8596000" />
       <workItem from="1582093216170" duration="1750000" />
       <workItem from="1582118476544" duration="1316000" />
-      <workItem from="1582129775049" duration="1023000" />
+      <workItem from="1582129775049" duration="2570000" />
+      <workItem from="1582135635842" duration="115000" />
+      <workItem from="1582135995469" duration="4702000" />
+      <workItem from="1582155635694" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -216,6 +229,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="332" y="179" key="#Deployment" timestamp="1582152029989">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="332" y="179" key="#Deployment/0.23.1440.826@0.23.1440.826" timestamp="1582152029989" />
+    <state x="318" y="101" key="#Options" timestamp="1582141035284">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="318" y="101" key="#Options/0.23.1440.826@0.23.1440.826" timestamp="1582141035284" />
     <state x="0" y="23" width="874" height="826" key="CommitChangelistDialog2" timestamp="1582094634638">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
