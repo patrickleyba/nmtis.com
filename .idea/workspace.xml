@@ -2,93 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public_html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public_html/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nmtis.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nmtis.com.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/php/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/laptop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/img/laptop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/form-validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/js/form-validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/build-phar.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/other/build_phar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/psalm-autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/psalm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/BinaryUtils.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Builder/UuidBuilderInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/CodecInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/StringCodec.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Number/BigNumberConverter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Number/DegradedNumberConverter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/NumberConverterInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Time/DegradedTimeConverter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/Time/PhpTimeConverter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/TimeConverterInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/DegradedUuid.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Exception/UnsatisfiedDependencyException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/FeatureSet.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/CombGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/MtRandGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/OpenSslGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomGeneratorFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomGeneratorInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/SodiumRandomGenerator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/TimeGeneratorFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Generator/TimeGeneratorInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/FallbackNodeProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/RandomNodeProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/NodeProviderInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/TimeProviderInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Uuid.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/UuidFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/UuidFactoryInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/UuidInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/Ctype.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/bootstrap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +123,8 @@
       <workItem from="1582315755658" duration="965000" />
       <workItem from="1582432676038" duration="1922000" />
       <workItem from="1582496754489" duration="84000" />
-      <workItem from="1582518379803" duration="275000" />
+      <workItem from="1582518379803" duration="1515000" />
+      <workItem from="1582605630811" duration="2936000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
