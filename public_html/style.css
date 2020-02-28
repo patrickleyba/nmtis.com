@@ -1,56 +1,18 @@
-
-/* Add a black background color to the top navigation */
-.topnav {
-	background-color: #4b4b4b;
-	overflow: hidden;
-	padding: 0px;
-	margin: 0px;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-	float: left;
-	color: #363636;
-	text-align: center;
-	text-decoration: none;
-	padding: 5px 8px;
-	font-size: 25px;
-	font-family: 'Saira', sans-serif;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-	background-color: #515151;
-	color: #adff00;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-	background-color: #363636;
-	color: #adff00;
-}
-
 .nmtis-banner {
 	height: 100%;
 	width: 100%;
+	position: fixed;
 }
 
-h2, h3, h5, p {
+h2, h3, h5 {
 	color: #adff00;
-	text-align: right;
-	padding: 1px;
-	margin: 0px;
+	text-align: left;
+	padding: 1rem;
 	font-family: 'Saira', sans-serif;
 }
 
-body {
-	background-color: #363636;
-}
-
-
-#footer {
+footer {
 	position: fixed;
-	width: 100%;
 	background-color: #363636;
 	color: #c2ff00;
 	text-align: center;
@@ -58,7 +20,6 @@ body {
 }
 
 .form {
-	border: #adff00;
 	font-family: 'Saira', sans-serif;
 	color: #adff00;
 }
@@ -66,10 +27,10 @@ body {
 #submit-button {
 	font-family: 'Saira', sans-serif;
 	background: #c2ff00;
-	color: #363636;
+	color: #ffffff;
 	border-style: outset;
 	border-color: #006ca2;
-	height: 50px;
+	height: 100px;
 	width: 100px;
 	text-shadow:none;
 }
@@ -85,4 +46,18 @@ body {
 label {
 	font-family: 'Saira', sans-serif;
 	color: #adff00;
+}
+
+p {
+	color: aliceblue;
+}
+
+li {
+	color: aliceblue;
+}
+
+#background {
+	position: fixed;
+	width: fit-content;
+	height: fit-content;
 }
