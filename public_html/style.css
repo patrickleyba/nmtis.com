@@ -59,5 +59,6 @@ li {
 }
 
 #background {
-	background-image: url("img/nmtis-background.jpg");
+	background-image: url("img/nmtis-backgnd.jpg");
+	background-size: contain;
 }
