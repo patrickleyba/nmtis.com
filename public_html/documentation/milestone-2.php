@@ -21,7 +21,7 @@
 
 	<h5>About Me</h5><p>The NM Technology website is geared toward providing local small businesses and
 		commercial enterprises with solutions through technology here in the State Of New Mexico and beyond. We provide
-		IP-CCTV installation, Commercial IT solutions, Web development and design! I have a small introduction on myself
+		IP-CCTV installation, Commercial IT solutions, Web development! I have a small introduction on myself
 		at my existing website and will migrate that text over to this new section.</p>
 
 	<h5>Portfolio</h5><p>I would like to have an interactive display of images showing complete install and service work

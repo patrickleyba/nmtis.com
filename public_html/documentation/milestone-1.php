@@ -15,7 +15,7 @@
 			new customers that need professional Web Application Development, Company Websites, Business Management
 			Work Flow applications and IT installation solutions via a modern technology base.</p>
 
-		<h5>Audience:</h5><p>The NM Technology website is geared toward providing local small businesses and
+		<h5>Audience:</h5><p>The NM Technology website is geared toward providing service for local small businesses and
 		commercial enterprises here in the State Of New Mexico.</p>
 
 		<h5>Goal:</h5>
