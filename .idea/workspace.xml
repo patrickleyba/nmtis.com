@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/img/short-nm-website-bannerlogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/img/short-nm-website-bannerlogo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/img/background-long.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/img/background-long.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/img/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/img/background2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/img/nmtis-background-longest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/img/nmtis-background-new.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/style.css" afterDir="false" />
     </list>
@@ -138,6 +142,7 @@
       <workItem from="1582845626135" duration="9200000" />
       <workItem from="1583105333634" duration="18415000" />
       <workItem from="1583168009350" duration="8646000" />
+      <workItem from="1583202732714" duration="12494000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -258,6 +263,10 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="318" y="101" key="#Options/0.23.1440.826@0.23.1440.826" timestamp="1582141035284" />
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583202857566">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1583202857566" />
     <state x="377" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582777912186">
       <screen x="0" y="23" width="1440" height="831" />
     </state>

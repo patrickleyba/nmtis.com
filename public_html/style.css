@@ -2,7 +2,7 @@
 	background-image: url("img/background-long.jpg");
 	background-size: 100vw;
 	background-repeat:no-repeat;/*we want to have one single image not a repeated one*/
-	z-index: 1;
+	background-attachment: fixed;
 }
 
 .form {
@@ -23,7 +23,7 @@
 h1, h2, h3, h4, h5, h6 {
 	color: #adff00;
 	text-align: left;
-	padding: 2rem;
+	padding: 2em;
 	font-family: 'Saira', sans-serif;
 }
 
@@ -36,7 +36,7 @@ p {
 	color: aliceblue;
 	font-family: 'Saira', sans-serif;
 	text-align: center;
-	font-size: larger;
+	font-size: large;
 }
 
 li {
@@ -45,8 +45,48 @@ li {
 }
 
 #box-back {
-	background-color: rgba(0,0,0,.30);
+	background-color: rgba(0,0,0,.50);
 	border-radius: 10px;
 	padding: 1em;
 }
 
+footer, #footer {
+	background-color: #373737;
+}
+
+#form-back {
+	background-image: url("img/background-long.jpg");
+	background-size: 100vw;
+	background-repeat:no-repeat;/*we want to have one single image not a repeated one*/
+	background-attachment: fixed;
+}
+
+.typewriter {
+	overflow: hidden; /* Ensures the content is not revealed until the animation */
+	border-right: .15em solid #6dff00; /* The typwriter cursor */
+	white-space: nowrap; /* Keeps the content on a single line */
+	margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+	letter-spacing: .05em; /* Adjust as needed */
+	animation:
+		typing 3.5s steps(30, end),
+		blink-caret 0.7s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+	from { width: 0 }
+	to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+	from, to { border-color: transparent }
+	50% { border-color: #6dff00; }
+}
+
+nav {
+	font-family: 'Saira', sans-serif;
+	color: #adff00;
+	background-color: #373737;
+
+}
