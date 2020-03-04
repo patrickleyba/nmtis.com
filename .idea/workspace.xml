@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;">
-      <change afterPath="$PROJECT_DIR$/public_html/img/FN-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public_html/img/linkdin-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public_html/img/pc-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public_html/img/wm-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/CompanionCloud-ACP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/CompanionCloudlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/companioncloud-messaging-center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/companioncloud-petfile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/team.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/team2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/img/wireframes.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/documentation/milestone-1.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/documentation/milestone-1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/documentation/milestone-2.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/documentation/milestone-2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -142,7 +150,7 @@
       <workItem from="1582845626135" duration="9200000" />
       <workItem from="1583105333634" duration="18415000" />
       <workItem from="1583168009350" duration="8646000" />
-      <workItem from="1583202732714" duration="20230000" />
+      <workItem from="1583202732714" duration="51390000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -246,11 +254,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="180" key="#Deployment" timestamp="1583127578555">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state x="332" y="180" key="#Deployment" timestamp="1583271509053">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="332" y="179" key="#Deployment/0.23.1440.826@0.23.1440.826" timestamp="1582152029989" />
     <state x="332" y="180" key="#Deployment/0.23.1440.830@0.23.1440.830" timestamp="1583127578555" />
+    <state x="332" y="180" key="#Deployment/0.23.1440.832@0.23.1440.832" timestamp="1583271509053" />
     <state x="322" y="101" key="#Inspections" timestamp="1582433995661">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -263,10 +272,11 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="318" y="101" key="#Options/0.23.1440.826@0.23.1440.826" timestamp="1582141035284" />
-    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583202857566">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583266751397">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1583202857566" />
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.833@0.23.1440.833" timestamp="1583266751397" />
     <state x="377" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582777912186">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -293,9 +303,10 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1580946208994" />
-    <state x="384" y="88" width="670" height="676" key="search.everywhere.popup" timestamp="1583113913951">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="384" y="88" width="670" height="680" key="search.everywhere.popup" timestamp="1583298773380">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="384" y="88" width="670" height="676" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1583113913951" />
+    <state x="384" y="88" width="670" height="680" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1583298773380" />
   </component>
 </project>
