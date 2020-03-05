@@ -1,5 +1,5 @@
 #background-image {
-	background-image: url("img/background-long.jpg");
+	background-image: url("../img/background-long.jpg");
 	background-size: 100em;
 	background-repeat:no-repeat;/*we want to have one single image not a repeated one*/
 	background-attachment: fixed;
@@ -57,7 +57,7 @@ footer, #footer {
 }
 
 #form-back {
-	background-image: url("img/background-long.jpg");
+	background-image: url("../img/background-long.jpg");
 	background-size: 100vw;
 	background-repeat:no-repeat;/*we want to have one single image not a repeated one*/
 	background-attachment: fixed;
