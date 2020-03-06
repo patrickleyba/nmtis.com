@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" autoUpload="Always" serverName="nmtis.com" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;typings;vendor;dist">
     <serverData>
+      <paths name="nmtis">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="nmtis.com">
         <serverdata>
           <mappings>

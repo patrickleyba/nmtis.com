@@ -10,6 +10,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b912b816-29c9-45b1-b314-2906948d5465" name="nmtis" url="https://bootcamp-coders.cnm.edu/~pleyba4/pwp-nmtis-website/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/pleyba4/public_html/pwp-nmtis-website" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
