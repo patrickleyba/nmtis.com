@@ -105,5 +105,5 @@ input, label {
 
 html, body {
 	background: rgb(0,0,0);
-	background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(36,36,36,1) 6%, rgba(55,55,55,1) 100%);
+	background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(36,36,36,1) 66%, rgba(55,55,55,1) 100%);
 }
