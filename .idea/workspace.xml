@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/img/CompanionCloud-ACP.png" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/img/CompanionCloud-ACP.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/img/background-long.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/img/background-long.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/style/style.css" afterDir="false" />
     </list>
@@ -146,6 +144,10 @@
       <workItem from="1583442517201" duration="691000" />
       <workItem from="1583469018845" duration="10066000" />
       <workItem from="1583763078046" duration="18000" />
+      <workItem from="1583763109491" duration="37000" />
+      <workItem from="1583965330611" duration="1131000" />
+      <workItem from="1584064250741" duration="3795000" />
+      <workItem from="1585250724293" duration="1739000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -249,10 +251,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="180" key="#Deployment" timestamp="1583346518702">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="332" y="179" key="#Deployment" timestamp="1583965577977">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="332" y="179" key="#Deployment/0.23.1440.826@0.23.1440.826" timestamp="1582152029989" />
+    <state x="332" y="179" key="#Deployment/0.23.1440.827@0.23.1440.827" timestamp="1583965577977" />
     <state x="332" y="180" key="#Deployment/0.23.1440.830@0.23.1440.830" timestamp="1583127578555" />
     <state x="332" y="180" key="#Deployment/0.23.1440.832@0.23.1440.832" timestamp="1583346518702" />
     <state x="322" y="101" key="#Inspections" timestamp="1582433995661">
@@ -267,10 +270,12 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="318" y="101" key="#Options/0.23.1440.826@0.23.1440.826" timestamp="1582141035284" />
-    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583383798196">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584381896242">
+      <screen x="0" y="23" width="1680" height="977" />
     </state>
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1583383798196" />
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1584335543764" />
+    <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977/1680.23.1920.1057@0.23.1680.977" timestamp="1584381896242" />
     <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583377438363">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
@@ -304,6 +309,10 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="221" y="79" key="SettingsEditor/0.23.1440.835@0.23.1440.835" timestamp="1579733983248" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584066195873">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1920.996@0.23.1920.996" timestamp="1584066195873" />
     <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1580946208994">
       <screen x="0" y="23" width="1440" height="835" />
     </state>

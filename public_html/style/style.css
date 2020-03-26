@@ -36,13 +36,10 @@ p {
 	font-family: 'Saira', sans-serif;
 	text-align: left;
 	font-size: medium;
-	background-color: rgba(0,0,0,.45);
-	border-radius: 7px;
-	padding: 1em;
 }
 
 li {
-	color: aliceblue;
+	color: #ffffff;
 	font-family: 'Saira', sans-serif;
 }
 
@@ -105,5 +102,10 @@ input, label {
 
 html, body {
 	background: rgb(0,0,0);
+	background-attachment: fixed;
 	background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(36,36,36,1) 66%, rgba(55,55,55,1) 100%);
+}
+
+#output-area {
+	font-family: 'Saira', sans-serif;
 }
