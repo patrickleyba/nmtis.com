@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/php/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WldmyUV5hlW1iXerelMUjSf74G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/php" />
+      <recent name="$PROJECT_DIR$/public_html" />
+      <recent name="$PROJECT_DIR$/public_html/style" />
+      <recent name="$PROJECT_DIR$/public_html/documentation" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sim\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="" />
+      <created>1579728277531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579728277531</updated>
+      <workItem from="1579728279564" duration="4669000" />
+      <workItem from="1579733806832" duration="1022000" />
+      <workItem from="1579794458819" duration="81000" />
+      <workItem from="1579809982685" duration="1712000" />
+      <workItem from="1580156970148" duration="413000" />
+      <workItem from="1580246730766" duration="3234000" />
+      <workItem from="1580258230492" duration="193000" />
+      <workItem from="1580323564508" duration="262000" />
+      <workItem from="1580397603068" duration="218000" />
+      <workItem from="1580410091403" duration="6000" />
+      <workItem from="1580410115061" duration="233000" />
+      <workItem from="1580828451979" duration="9370000" />
+      <workItem from="1580923551361" duration="413000" />
+      <workItem from="1580933138380" duration="5236000" />
+      <workItem from="1580945272598" duration="1046000" />
+      <workItem from="1580955018760" duration="138000" />
+      <workItem from="1581482965196" duration="1012000" />
+      <workItem from="1581521122343" duration="315000" />
+      <workItem from="1581526289407" duration="1673000" />
+      <workItem from="1581538064155" duration="376000" />
+      <workItem from="1581545838365" duration="386000" />
+      <workItem from="1581611700259" duration="1101000" />
+      <workItem from="1581733269028" duration="1655000" />
+      <workItem from="1582041704151" duration="230000" />
+      <workItem from="1582041944080" duration="1346000" />
+      <workItem from="1582079818023" duration="8596000" />
+      <workItem from="1582093216170" duration="1750000" />
+      <workItem from="1582118476544" duration="1316000" />
+      <workItem from="1582129775049" duration="2570000" />
+      <workItem from="1582135635842" duration="115000" />
+      <workItem from="1582135995469" duration="4702000" />
+      <workItem from="1582155635694" duration="1145000" />
+      <workItem from="1582167232075" duration="911000" />
+      <workItem from="1582211075190" duration="81000" />
+      <workItem from="1582239810867" duration="5726000" />
+      <workItem from="1582308013199" duration="7000" />
+      <workItem from="1582310031620" duration="33000" />
+      <workItem from="1582310367062" duration="99000" />
+      <workItem from="1582310890320" duration="433000" />
+      <workItem from="1582315755658" duration="965000" />
+      <workItem from="1582432676038" duration="1922000" />
+      <workItem from="1582496754489" duration="84000" />
+      <workItem from="1582518379803" duration="1515000" />
+      <workItem from="1582605630811" duration="3449000" />
+      <workItem from="1582652116032" duration="210000" />
+      <workItem from="1582666964081" duration="164000" />
+      <workItem from="1582671493039" duration="385000" />
+      <workItem from="1582672888270" duration="1800000" />
+      <workItem from="1582690428747" duration="325000" />
+      <workItem from="1582729872608" duration="35000" />
+      <workItem from="1582736249151" duration="1274000" />
+      <workItem from="1582742728304" duration="27729000" />
+      <workItem from="1582845626135" duration="9200000" />
+      <workItem from="1583105333634" duration="18415000" />
+      <workItem from="1583168009350" duration="8646000" />
+      <workItem from="1583202732714" duration="52279000" />
+      <workItem from="1583351696321" duration="1063000" />
+      <workItem from="1583363709742" duration="17744000" />
+      <workItem from="1583442517201" duration="691000" />
+      <workItem from="1583469018845" duration="10066000" />
+      <workItem from="1583763078046" duration="18000" />
+      <workItem from="1583763109491" duration="37000" />
+      <workItem from="1583965330611" duration="1131000" />
+      <workItem from="1584064250741" duration="3795000" />
+      <workItem from="1585250724293" duration="2135000" />
+      <workItem from="1587063881323" duration="264000" />
+      <workItem from="1587064549877" duration="992000" />
+      <workItem from="1587071901559" duration="522000" />
+      <workItem from="1587072504827" duration="11000" />
+      <workItem from="1587076354866" duration="133000" />
+      <workItem from="1587674203994" duration="964000" />
+      <workItem from="1588291021144" duration="495000" />
+      <workItem from="1589063849320" duration="502000" />
+      <workItem from="1589081331916" duration="87000" />
+      <workItem from="1589144553821" duration="30000" />
+      <workItem from="1589158477332" duration="13000" />
+      <workItem from="1589209100179" duration="735000" />
+      <workItem from="1589234606359" duration="2000" />
+      <workItem from="1591214017240" duration="16883000" />
+    </task>
+    <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
+      <created>1579733296702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579733296702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
+      <created>1579794472890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579794472890</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
+      <created>1579810887668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579810887668</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed and edited my objective.">
+      <created>1580157174718</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580157174718</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed and edited my users persona and checked my html using the html checker and there was no errors in my html code.">
+      <created>1580252900557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580252900557</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed and edited my users persona and checked my html using the html checker and there was no errors in my html code.">
+      <created>1580855561185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580855561185</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Checkpoint 2 looking for approval for milestone2.">
+      <created>1580945082381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580945082381</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Checkpoint 2 looking for approval for milestone2. //Added links to other pages in the footer and header for a fluid navigation.">
+      <created>1580946206273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580946206273</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;Added form and created layout for PWP using Bootstrap&quot;">
+      <created>1582090832872</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582090832872</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;">
+      <created>1582094634769</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582094634769</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory." />
+    <MESSAGE value="Fixed and edited my objective." />
+    <MESSAGE value="Fixed and edited my users persona and checked my html using the html checker and there was no errors in my html code." />
+    <MESSAGE value="Checkpoint 2 looking for approval for milestone2." />
+    <MESSAGE value="Checkpoint 2 looking for approval for milestone2. //Added links to other pages in the footer and header for a fluid navigation." />
+    <MESSAGE value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;Added form and created layout for PWP using Bootstrap&quot;" />
+    <MESSAGE value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint 2 &quot;updated layout&quot;" />
+    <MESSAGE value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="179" key="#Deployment" timestamp="1587064059386">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="332" y="179" key="#Deployment/0.23.1440.826@0.23.1440.826" timestamp="1582152029989" />
+    <state x="332" y="179" key="#Deployment/0.23.1440.827@0.23.1440.827" timestamp="1583965577977" />
+    <state x="332" y="179" key="#Deployment/0.23.1440.828@0.23.1440.828" timestamp="1587064059386" />
+    <state x="332" y="180" key="#Deployment/0.23.1440.830@0.23.1440.830" timestamp="1583127578555" />
+    <state x="332" y="180" key="#Deployment/0.23.1440.832@0.23.1440.832" timestamp="1583346518702" />
+    <state x="322" y="101" key="#Inspections" timestamp="1582433995661">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="322" y="101" key="#Inspections/0.23.1440.826@0.23.1440.826" timestamp="1582433995661" />
+    <state x="320" y="105" width="800" height="717" key="#Intentions" timestamp="1583189059529">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="320" y="105" width="800" height="717" key="#Intentions/0.23.1440.833@0.23.1440.833" timestamp="1583189059529" />
+    <state x="318" y="101" key="#Options" timestamp="1582141035284">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="318" y="101" key="#Options/0.23.1440.826@0.23.1440.826" timestamp="1582141035284" />
+    <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584381896242">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1583383798196" />
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1584335543764" />
+    <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977/1680.23.1920.1057@0.23.1680.977" timestamp="1584381896242" />
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583377438363">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.829@0.23.1440.829" timestamp="1583377438363" />
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1583202857566" />
+    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.833@0.23.1440.833" timestamp="1583266751397" />
+    <state x="377" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582777912186">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="377" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.831@0.23.1440.831" timestamp="1582777912186" />
+    <state x="0" y="23" width="874" height="826" key="CommitChangelistDialog2" timestamp="1583389848520">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="0" y="23" width="874" height="826" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1582094634638" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1583389848520" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1583116464828" />
+    <state x="0" y="43" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1580946206127" />
+    <state x="470" y="357" key="ComposerInitDialogKey" timestamp="1583366253724">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="470" y="357" key="ComposerInitDialogKey/0.23.1440.829@0.23.1440.829" timestamp="1583366253724" />
+    <state x="538" y="366" key="NewPhpFileDialog" timestamp="1582156409422">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="538" y="366" key="NewPhpFileDialog/0.23.1440.826@0.23.1440.826" timestamp="1582156409422" />
+    <state x="491" y="154" key="RollbackChangesDialog" timestamp="1582690737038">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="491" y="154" key="RollbackChangesDialog/0.23.1440.827@0.23.1440.827" timestamp="1582690737038" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1587071999982">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="221" y="79" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1587064570021" />
+    <state x="221" y="79" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1587071999982" />
+    <state x="221" y="79" key="SettingsEditor/0.23.1440.835@0.23.1440.835" timestamp="1579733983248" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584066195873">
+      <screen x="0" y="23" width="1920" height="996" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1920.996@0.23.1920.996" timestamp="1584066195873" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1580946208994">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1580946208994" />
+    <state x="384" y="88" width="670" height="680" key="search.everywhere.popup" timestamp="1583298773380">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="384" y="88" width="670" height="676" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1583113913951" />
+    <state x="384" y="88" width="670" height="680" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1583298773380" />
+  </component>
+</project>

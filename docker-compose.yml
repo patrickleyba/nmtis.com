@@ -2,9 +2,9 @@ version: "3"
 
 services:
    backend:
-      build: ./php
+      build: ""
    frontend:
-      build: ./public_html
+      build: public_html
       ports:
          - "80:80"
          - "443:443"

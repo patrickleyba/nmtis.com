@@ -1,6 +1,6 @@
 FROM composer:1.7 as vendor
 
-COPY composer.json composer.json
+COPY php/composer.json composer.json
 
 RUN composer install \
     --ignore-platform-reqs \
@@ -17,6 +17,6 @@ FROM gkephart/alpine-php-apache
 # copy vendor into the project from the prebuild stage
 COPY --from=vendor /app/vendor/ /app/public/vendor
 
-COPY . /app/public
+COPY php /app/public
 
 EXPOSE 80
