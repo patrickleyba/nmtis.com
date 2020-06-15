@@ -4,7 +4,7 @@
     <configs>
       <sshConfig authType="OPEN_SSH" host="nmtis.com" id="056bca60-8c7b-4f18-8e64-56832e22217b" port="22" customName="nmtis.com" nameFormat="CUSTOM" username="DDC" />
       <sshConfig authType="OPEN_SSH" host="bootcamp-coders.cnm.edu" id="f1f8d9db-89ff-4d33-a93d-0f336046b61b" port="22" customName="nmtis" nameFormat="CUSTOM" username="pleyba4" />
-      <sshConfig authType="OPEN_SSH" host="bootcamp-coders.cnm.edu" id="72556d31-483a-42b3-b006-f2ca83cb56d2" port="22" customName="nmtis" nameFormat="CUSTOM" username="pleyba4" />
+      <sshConfig authType="OPEN_SSH" host="bootcamp-coders.cnm.edu" id="f73cac98-b69d-460a-8d25-7a39b9a906db" port="22" customName="nmtis" nameFormat="CUSTOM" username="pleyba4" />
     </configs>
   </component>
 </project>
