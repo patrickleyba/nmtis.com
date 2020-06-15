@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19579e0d-e383-4bbc-bd11-e302001cbb5c" name="Default Changelist" comment="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/production.conf" beforeDir="false" afterPath="$PROJECT_DIR$/production.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,6 +187,10 @@
       <workItem from="1591630647865" duration="5000" />
       <workItem from="1591635812027" duration="8475000" />
       <workItem from="1591685231749" duration="141000" />
+      <workItem from="1591841725940" duration="6275000" />
+      <workItem from="1591941544513" duration="3418000" />
+      <workItem from="1592055991292" duration="14248000" />
+      <workItem from="1592235680157" duration="5201000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -291,24 +298,15 @@
     </state>
     <state x="332" y="179" key="#Deployment/0.23.1440.827@0.23.1440.827" timestamp="1583965577977" />
     <state x="332" y="179" key="#Deployment/0.23.1440.828@0.23.1440.828" timestamp="1587064059386" />
-    <state x="332" y="180" key="#Deployment/0.23.1440.830@0.23.1440.830" timestamp="1583127578555" />
-    <state x="332" y="180" key="#Deployment/0.23.1440.832@0.23.1440.832" timestamp="1583346518702" />
-    <state x="320" y="105" width="800" height="717" key="#Intentions" timestamp="1583189059529">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state x="83" y="178" key="#Web_Browsers" timestamp="1592195172130">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="320" y="105" width="800" height="717" key="#Intentions/0.23.1440.833@0.23.1440.833" timestamp="1583189059529" />
+    <state x="83" y="178" key="#Web_Browsers/0.23.1440.834@0.23.1440.834" timestamp="1592195172130" />
     <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584381896242">
       <screen x="0" y="23" width="1680" height="977" />
     </state>
-    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1583383798196" />
     <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1584335543764" />
     <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977/1680.23.1920.1057@0.23.1680.977" timestamp="1584381896242" />
-    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583377438363">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.829@0.23.1440.829" timestamp="1583377438363" />
-    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1583202857566" />
-    <state x="458" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.833@0.23.1440.833" timestamp="1583266751397" />
     <state x="397" y="101" key="#docker-compose.yml.backend:_Compose_Deployment" timestamp="1591637828644">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -317,15 +315,6 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="397" y="101" key="#docker-compose.yml:_Compose_Deployment/0.23.1440.832@0.23.1440.832" timestamp="1591637817977" />
-    <state x="0" y="23" width="874" height="826" key="CommitChangelistDialog2" timestamp="1583389848520">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1583389848520" />
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1583116464828" />
-    <state x="470" y="357" key="ComposerInitDialogKey" timestamp="1583366253724">
-      <screen x="0" y="23" width="1440" height="829" />
-    </state>
-    <state x="470" y="357" key="ComposerInitDialogKey/0.23.1440.829@0.23.1440.829" timestamp="1583366253724" />
     <state x="221" y="79" key="SettingsEditor" timestamp="1587071999982">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
@@ -335,10 +324,5 @@
       <screen x="0" y="23" width="1920" height="996" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1920.996@0.23.1920.996" timestamp="1584066195873" />
-    <state x="384" y="88" width="670" height="680" key="search.everywhere.popup" timestamp="1583298773380">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state x="384" y="88" width="670" height="676" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1583113913951" />
-    <state x="384" y="88" width="670" height="680" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1583298773380" />
   </component>
 </project>
