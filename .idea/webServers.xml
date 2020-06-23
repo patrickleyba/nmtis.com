@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="02e2a051-6c32-4148-98d6-5552c9f4af69" name="nmtis.com" url="http://bootcamp-coders.cnm.edu/~pleyba4/pwp-nmtis-website">
-        <fileTransfer rootFolder="/home/DDC/pwp" accessType="SFTP" sshConfigId="569d07c4-2458-4c31-8e6b-e20840a31274" sshConfig="nmtis.com">
+      <webServer id="02e2a051-6c32-4148-98d6-5552c9f4af69" name="nmtis.com" url="https://www.nmtis.com">
+        <fileTransfer rootFolder="/home/DDC/pwp" accessType="SFTP" host="nmtis.com" port="22" sshConfigId="056bca60-8c7b-4f18-8e64-56832e22217b" sshConfig="nmtis.com" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
