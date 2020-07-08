@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fac0ed02-d557-4303-827c-3a24154c6055" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +155,8 @@
       <workItem from="1592585527845" duration="187000" />
       <workItem from="1592876544730" duration="315000" />
       <workItem from="1592877156795" duration="37000" />
-      <workItem from="1592897444730" duration="194000" />
+      <workItem from="1592897444730" duration="520000" />
+      <workItem from="1594231918536" duration="2330000" />
     </task>
     <task id="LOCAL-00001" summary="Started PWP and created directories public_html and documentation then I created the read me, .gitignore w/vendor, and milestone-1.php file inside the documentation directory.">
       <created>1579733296702</created>
@@ -260,16 +259,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:patrickleyba/nmtis.com&#10;&#10;Savepoint &quot;updated layout&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="29" key="#Deployment" timestamp="1592897729483">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state x="443" y="30" key="#Deployment" timestamp="1594236088785">
+      <screen x="0" y="23" width="1920" height="1022" />
     </state>
     <state x="332" y="179" key="#Deployment/0.23.1440.828@0.23.1440.828" timestamp="1587064059386" />
     <state x="332" y="29" key="#Deployment/0.23.1440.837@0.23.1440.837" timestamp="1592897729483" />
-    <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584381896242">
-      <screen x="0" y="23" width="1680" height="977" />
+    <state x="443" y="30" key="#Deployment/0.23.1920.1022@0.23.1920.1022" timestamp="1594236088785" />
+    <state x="423" y="23" key="#SSH_Configurations" timestamp="1594236086215">
+      <screen x="0" y="23" width="1920" height="1022" />
     </state>
-    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1584335543764" />
-    <state x="215" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977/1680.23.1920.1057@0.23.1680.977" timestamp="1584381896242" />
+    <state x="423" y="23" key="#SSH_Configurations/0.23.1920.1022@0.23.1920.1022" timestamp="1594236086215" />
     <state x="437" y="79" key="RollbackChangesDialog" timestamp="1592282607109">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
@@ -279,5 +278,20 @@
     </state>
     <state x="221" y="79" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1587064570021" />
     <state x="221" y="79" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1587071999982" />
+    <state x="712" y="403" key="publish.login" timestamp="1594232066208">
+      <screen x="0" y="23" width="1920" height="1022" />
+    </state>
+    <state x="712" y="403" key="publish.login/0.23.1920.1022@0.23.1920.1022" timestamp="1594232066208" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/index.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
